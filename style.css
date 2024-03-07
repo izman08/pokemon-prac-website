@@ -1,0 +1,148 @@
+.main {
+    background-color: plum;
+    width: 100%;
+
+}
+
+.FIRST {
+    background-color: white;
+}
+
+.one>li {
+    display: inline-block;
+    text-decoration: underline;
+    padding: 10px;
+    n justify-content: space-between;
+}
+
+a:hover {
+    background-color: rgb(43, 226, 46);
+}
+
+.mainn {
+
+    background-color: aliceblue, 224, 63);
+    display: flex;
+    flex-direction: row;
+    padding: 4px;
+    width: 100%;
+    justify-content: center;
+    gap: 20px;
+
+}
+
+.card {
+    width: 46%;
+    background-color: rgb(63, 63, 224);
+    height: 80vh;
+    border: 2px solid rgb(73, 42, 165);
+    border-radius: 2%;
+}
+
+.cardtwo {
+    width: 40%;
+    background-color: rgb(206, 13, 13);
+    height: 47vh;
+    border: 2px solid brown;
+    border-radius: 2%;
+}
+
+p {
+    color: rgb(118, 118, 184);
+}
+
+h2 {
+    color: white;
+    text-transform: capitalize;
+}
+
+.mainsec {
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    width: 100%;
+    justify-content: center;
+    gap: 30px 20px;
+
+
+}
+
+.cardthree {
+    width: 32%;
+    background-color: rgb(7, 7, 8);
+    height: 47vh;
+    border: 2px solid rgb(18, 17, 17);
+    border-radius: 3%;
+
+}
+
+.cardfour {
+    width: 32%;
+    background-color: rgb(211, 235, 77);
+    height: 47vh;
+    border: 2px solid rgb(243, 239, 49);
+    border-radius: 3%;
+}
+
+.cardfive {
+    width: 30%;
+    background-color: rgba(165, 42, 42, 0.518);
+    height: 47vh;
+    border: 2px solid brown;
+    border-radius: 3%;
+
+}
+
+.contact {
+    background-color: black;
+    display: flex;
+    width: 100%;
+
+
+}
+
+.mainthird {
+    display: flex;
+    flex-direction: row;
+    gap: 50px 20px;
+    padding: auto;
+    text-decoration: none;
+    background-color: black;
+
+}
+
+h3 {
+    color: antiquewhite;
+    text-align: start;
+    text-transform: uppercase;
+}
+
+.para {
+
+    width: 50%;
+    text-transform: capitalize;
+    margin: 10px;
+
+
+}
+
+.class {
+    color: antiquewhite;
+    width: 50%;
+}
+
+input {
+    border: 2px solid white;
+    border-radius: 3%;
+}
+.bar{
+    width: 60%;
+    margin-top: 40px;
+    height: 60vh;
+    margin-left: 20px;
+}
+.none{
+    margin-right: 90px;
+    width: 20%;
+}
